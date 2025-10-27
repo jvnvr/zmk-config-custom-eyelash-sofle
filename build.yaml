@@ -20,9 +20,9 @@
 ---
 include:
   - board: eyelash_sofle_left
-    shield: sofle_custom_left
+    shield: nice_view
     artifact-name: vr_sofle_custom_left
   - board: eyelash_sofle_right
-    shield: sofle_custom_right
+    shield: nice_view
     artifact-name: vr_sofle_custom_right
 
